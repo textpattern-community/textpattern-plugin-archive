@@ -9,3 +9,12 @@ To make changes to existing plugins, or to add new ones, start by "forking the r
 Alternatively, if you have a GitHub account but don't wish to make the changes yourself, open a new issue with details of the plugins you can offer or are seeking.
 
 If you _don't_ have a GitHub account and wish to contribute, post in "this support forum thread":http://forum.textpattern.com/viewtopic.php?pid=287618#p287618 and we'll figure it out.
+
+h3. Directory layout
+
+Plugins should follow the same directory structure. For example, the (fictitious) `xmp_example`:
+
+*  `/plugins/xmp/xmp_example/1.0/README.textile` &ndash; Textile-formatted plugin information file
+*  `/plugins/xmp/xmp_example/1.0/dist` &ndash; Ready-to-use encoded text
+*  `/plugins/xmp/xmp_example/1.0/source` &ndash; Source code, if available and appropriate
+*  `/plugins/xmp/xmp_example/1.0/files` &ndash; Accompanying files, if available and appropriate
