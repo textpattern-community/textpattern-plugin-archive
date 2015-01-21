@@ -20,7 +20,7 @@ Plugins should follow the same directory structure. All plugins live beneath the
 
 h3. To do
 
-Lots. In no particular order:
+Lots. In no particular order, and not complete:
 
 * finalise plugin description format (JSON, Textile, etc)
 * fine-tune workflow for filling/requesting
