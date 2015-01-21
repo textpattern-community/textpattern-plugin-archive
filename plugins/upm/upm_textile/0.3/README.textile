@@ -1,5 +1,0 @@
-h1. upm_textile
-
-* Author: Mary Fredborg
-* Version: 0.3
-* Forum thread: http://forum.textpattern.com/viewtopic.php?id=17160

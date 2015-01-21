@@ -1,0 +1,33 @@
+# upm_textile_toggle v.0.5
+# Toggle default Textile setting for excerpts.
+
+# Mary Fredborg
+# http://utterplush.com/txp-plugins/upm-textile-toggle
+
+# ..........................................................................
+# A plugin for Textpattern
+# http://textpattern.com/
+#
+# Adding Plugins to Your Textpattern Installation
+# http://textpattern.net/wiki/index.php?title=Intermediate_Weblog_Model#Adding_Plugins_to_Your_Textpattern_Installation
+# ..........................................................................
+
+YToxMTp7czo0OiJuYW1lIjtzOjE4OiJ1cG1fdGV4dGlsZV90b2dnbGUiO3M6MTE6ImRlc2Ny
+aXB0aW9uIjtzOjQ0OiJUb2dnbGUgZGVmYXVsdCBUZXh0aWxlIHNldHRpbmcgZm9yIGV4Y2Vy
+cHRzLiI7czo3OiJ2ZXJzaW9uIjtzOjM6IjAuNSI7czo0OiJ0eXBlIjtpOjE7czo2OiJhdXRo
+b3IiO3M6MTM6Ik1hcnkgRnJlZGJvcmciO3M6MTA6ImF1dGhvcl91cmkiO3M6NTI6Imh0dHA6
+Ly91dHRlcnBsdXNoLmNvbS90eHAtcGx1Z2lucy91cG0tdGV4dGlsZS10b2dnbGUiO3M6NDoi
+Y29kZSI7czozNjM6ImlmICh0eHBpbnRlcmZhY2UgPT0gJ2FkbWluJykKCXsKCQlhZGRfcHJp
+dnMoJ3VwbV90ZXh0aWxlX3RvZ2dsZScsICcxLDIsMyw0LDUnKTsKCQlyZWdpc3Rlcl9jYWxs
+YmFjaygndXBtX3RleHRpbGVfdG9nZ2xlJywgJ2FydGljbGUnLCAnY3JlYXRlJyk7Cgl9CgoJ
+ZnVuY3Rpb24gdXBtX3RleHRpbGVfdG9nZ2xlKCRldmVudCkKCXsKCQlnbG9iYWwgJHVzZV90
+ZXh0aWxlOwoKCQlpZiAoJHVzZV90ZXh0aWxlID09IDEpCgkJewoJCQllY2hvIG4uJzxzY3Jp
+cHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij5kb2N1bWVudC5nZXRFbGVtZW50QnlJZChcJ21h
+cmt1cC1leGNlcnB0XCcpLnNlbGVjdGVkSW5kZXggPSAyOzwvc2NyaXB0Pic7CgkJfQoJfSI7
+czo0OiJoZWxwIjtzOjExODoiaDEuIHVwbV90ZXh0aWxlX3RvZ2dsZQoKSnVzdCBhY3RpdmF0
+ZSB0aGUgcGx1Z2luIGFuZCB5b3UncmUgYWxsIHNldC4gT25seSB0dXJucyBUZXh0aWxlIG9m
+ZiBmb3IgZXhjZXJwdHMgb2YgbmV3IHBvc3RzLiI7czo4OiJoZWxwX3JhdyI7czoxMTg6Imgx
+LiB1cG1fdGV4dGlsZV90b2dnbGUKCkp1c3QgYWN0aXZhdGUgdGhlIHBsdWdpbiBhbmQgeW91
+J3JlIGFsbCBzZXQuIE9ubHkgdHVybnMgVGV4dGlsZSBvZmYgZm9yIGV4Y2VycHRzIG9mIG5l
+dyBwb3N0cy4iO3M6MTU6ImFsbG93X2h0bWxfaGVscCI7aTowO3M6MzoibWQ1IjtzOjMyOiI4
+MTlkMTA2OWEyMWU4YWY3YmRkNTlhNzYzYjQxMGE3YSI7fQ==

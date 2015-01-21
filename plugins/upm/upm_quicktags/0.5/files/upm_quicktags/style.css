@@ -1,0 +1,74 @@
+/* see plugin documentation before modifying */
+
+/* toolbar */
+#upm_quicktags {
+}
+
+/* button and link dropdown */
+.qt-button, .qt-links {
+margin-bottom: 2px;
+}
+
+/* spacer button */
+.qt-spacer {
+width: 5px;
+}
+
+/* various buttons, by button's id */
+
+#qt-h1 {
+}
+
+#qt-h2 {
+}
+
+#qt-h3 {
+}
+
+#qt-p {
+}
+
+#qt-ol {
+}
+
+#qt-ul {
+}
+
+#qt-li {
+}
+
+#qt-dl {
+}
+
+#qt-dt {
+}
+
+#qt-dd {
+}
+
+#qt-image {
+}
+
+#qt-link {
+}
+
+#qt-em {
+font-style: italic;
+}
+
+#qt-str {
+font-weight: bold;
+}
+
+#qt-quote, #qt-bq {
+}
+
+#qt-code, #qt-bc {
+font-family: monospace;
+}
+
+#qt-spell {
+}
+
+#qt-close {
+}

@@ -14,7 +14,14 @@ h3. Directory layout
 
 Plugins should follow the same directory structure. For example, the (fictitious) `xmp_example`:
 
-*  `/plugins/xmp/xmp_example/1.0/README.textile` &ndash; Textile-formatted plugin information
 *  `/plugins/xmp/xmp_example/1.0/dist` &ndash; Ready-to-use, base64-encoded text
 *  `/plugins/xmp/xmp_example/1.0/source` &ndash; Source code, if available and appropriate
 *  `/plugins/xmp/xmp_example/1.0/files` &ndash; Accompanying files, if available and appropriate
+
+h3. To do
+
+Lots. In no particular order:
+
+* finalise plugin description format (JSON, Textile, etc)
+* fine-tune workflow for filling/requesting
+* add opt-out for author and/or plugin

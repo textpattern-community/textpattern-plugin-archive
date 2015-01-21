@@ -1,0 +1,1 @@
+Here is where you place the images to be used for your image buttons.
