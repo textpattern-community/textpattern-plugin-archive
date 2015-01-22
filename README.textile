@@ -25,3 +25,4 @@ Lots. In no particular order, and not complete:
 * finalise plugin description format (JSON, Textile, etc)
 * fine-tune workflow for filling/requesting
 * add opt-out for author and/or plugin
+* choose best format for help tet
