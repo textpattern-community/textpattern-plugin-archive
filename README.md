@@ -1,3 +1,3 @@
 # Textpattern CMS plugin archive
 
-This repository will contain a selection of historical, unsupported releases of plugins for [Textpattern CMS](https://textpattern.com).
+The mission is currently unclear, please stay tuned.
